@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainimayank1&label=Profile%20views&color=0e75b6&style=flat" alt="sainimayank1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainimayank1" alt="sainimayank1" /></a> </p>
 
 - 🌱 I’m currently learning **React-Native**
 
@@ -12,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **https://mayanksaini-portfolio.netlify.app/#connect**
+- 📫 How to reach me **https://ms-pf.netlify.app/#connect**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1akvfYpeiyE798CHPfxRGVg5MSZ_ee-Co/view?usp=sharing](https://drive.google.com/file/d/1akvfYpeiyE798CHPfxRGVg5MSZ_ee-Co/view?usp=sharing)
 
