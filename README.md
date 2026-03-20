@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://ms-pf.netlify.app/]([https://mayanksaini-portfolio.netlify.app](https://ms-pf.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://ms-pf.netlify.app/](https://ms-pf.netlify.app/)
 
 - 💬 Ask me about **React**
 
